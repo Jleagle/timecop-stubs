@@ -1,0 +1,10 @@
+{
+  "name": "jleagle/timecop-stubs",
+  "keywords": [
+    "timecop",
+    "stubs"
+  ],
+  "require": {
+    "ext-timecop": "*"
+  }
+}
